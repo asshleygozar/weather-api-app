@@ -1,0 +1,24 @@
+{
+  "name": "weather-api-application",
+  "version": "1.0.0",
+  "description": "A weather application to let the user know about the weather of their input location",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asshleygozar/weather-api-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asshleygozar/weather-api-app/issues"
+  },
+  "homepage": "https://github.com/asshleygozar/weather-api-app#readme",
+  "devDependencies": {
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
+  }
+}
